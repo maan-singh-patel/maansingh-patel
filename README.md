@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Maan Singh Patel 👋
 
-<!--
-**maansingh-patel/maansingh-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI/ML) student at IILM University, Greater Noida.
+I build full-stack web applications with the MERN stack and explore generative AI.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+React.js • Node.js • Express.js • MongoDB • JavaScript • HTML • CSS • Bootstrap • Git • GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **ResumeAI**: AI-powered resume builder (MERN + Generative AI) · [Live Demo](https://resume-ai-t530.onrender.com)
+
+## 📚 Currently Learning
+C++ and Data Structures & Algorithms
+
+## 📫 Connect
+- LinkedIn: [Maan Singh Patel](https://www.linkedin.com/in/maan-singh-patel)
+- Email: maansinghpatel46@gmail.com
